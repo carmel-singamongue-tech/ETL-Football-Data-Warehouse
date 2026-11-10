@@ -1,0 +1,6 @@
+﻿id_match,saison,club_domicile,club_exterieur,code_stade,buts_dom,buts_ext,spectateurs,recette_billetterie
+M001,2025-2026,C01,C02,S01,2,1,2500,1250000
+M002,2025-2026,C03,C01,S02,0,3,1800,900000
+M003,2025-2026,C02,C03,S02,1,1,2100,1050000
+M004,2026-2027,C01,C03,S01,4,2,3000,1500000
+M005,2026-2027,C02,C01,S02,0,2,2200,1100000
